@@ -1,4 +1,4 @@
-(https://www.wheelhouseit.com/wp-content/uploads/2021/11/soc-analyst.jpg)](https://github.com/sesanh4)
+[![MasterHead](https://www.wheelhouseit.com/wp-content/uploads/2021/11/soc-analyst.jpg)](https://github.com/sesanh4)
 <h1 align="center">Hi 👋, I'm olushola</h1>
 <h3 align="center">A passionate SOC Analyst</h3>
 
